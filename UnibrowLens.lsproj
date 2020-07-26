@@ -3,7 +3,7 @@
     "document_id": "J4IURbkQ2105wyjsyLD9",
     "original_document_id": "4dmmHOL_-ZJASgaEkAFv",
     "version": "24",
-    "lastChanged": "1595732959754",
+    "lastChanged": "1595733414023",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -960,7 +960,7 @@
                     },
                     {
                         "k": "11056",
-                        "v": "889ad1cc4b1537beff890b21457cd63c"
+                        "v": "d4a1f140b371cb0fb80cb877d6ef4858"
                     },
                     {
                         "k": "11057",
@@ -976,7 +976,7 @@
                     },
                     {
                         "k": "11060",
-                        "v": "4e147a193aab1d5cf5fca8b7bf59014c"
+                        "v": "16eb735562615cb97589e9526180bf91"
                     },
                     {
                         "k": "11061",
@@ -1032,7 +1032,7 @@
                         "isFolder": "true",
                         "lastModified": "2020-07-25T20:07:07",
                         "name": "Public",
-                        "hash": "ac2306433af178149e063f508bb10fd9",
+                        "hash": "d9968f6571e7e1dd7403f744dbd71551",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1131,15 +1131,15 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-07-25T20:01:24",
+                                "lastModified": "2020-07-25T20:16:43",
                                 "name": "Brows Mask",
-                                "hash": "b6c49801de201a84fb7131f7abd05038",
+                                "hash": "aec198c1d1ce0fe6b3a4c893ccde2375",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-07-25T20:00:10",
+                                        "lastModified": "2020-07-25T20:16:43",
                                         "name": "Face Mesh Brows Mask Unlit [Try swapping texture].lsmat",
-                                        "hash": "4e147a193aab1d5cf5fca8b7bf59014c",
+                                        "hash": "16eb735562615cb97589e9526180bf91",
                                         "children": ""
                                     },
                                     {
@@ -1169,7 +1169,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2020-07-25T20:01:24",
                                 "name": "Brows Resources",
-                                "hash": "88b7b3b98d063cebcd3f44aa1957668e",
+                                "hash": "5dca0224717d8ad255fb1f56fec9793d",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -1203,15 +1203,15 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-07-25T20:08:40",
+                                        "lastModified": "2020-07-25T20:16:48",
                                         "name": "Materials",
-                                        "hash": "07900a984f8d52ff7f52bf8a5d1a8556",
+                                        "hash": "709fd877c11666388f473a2d2c5de4cd",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-07-25T20:08:40",
+                                                "lastModified": "2020-07-25T20:16:48",
                                                 "name": "Blend.lsmat",
-                                                "hash": "58b95c5a3fedb25f5a9c283418dd12bd",
+                                                "hash": "cf4a32d1dad19973a8ac22f873f392e1",
                                                 "children": ""
                                             },
                                             {
@@ -4346,7 +4346,11 @@
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1584130933849130:108965"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
